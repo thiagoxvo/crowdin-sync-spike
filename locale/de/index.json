@@ -1,3 +1,4 @@
 {
-  "SomeString":"Dies ist ein String-Beispiel"
+  "SomeString":"Dies ist ein String-Beispiel",
+  "Another String":"This is an string example"
 }
