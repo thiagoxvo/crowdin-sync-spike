@@ -1,6 +1,5 @@
 project_identifier: applestore
 api_key: fb1082b73a49c890ffee92e729f67178
-base_path: /Users/tx/code/d2d/crowdin-sync-spike
 files:
-  - source: /locale/en/*.json
+  - source: /locale/en/index.json
     translation: /locale/%two_letters_code%/index.json
